@@ -1,0 +1,16 @@
+Device_A PIN,Device_B PIN
+SHT32_Sensor_vcc,esp32_3v3
+SHT32_Sensor_gnd,esp32_gnd
+SHT32_Sensor_sda,esp32_d21
+SHT32_Sensor_scl,esp32_d22
+sd_card_spi_cs,esp32_d5
+sd_card_spi_sck,esp32_d18
+sd_card_spi_mosi,esp32_d23
+sd_card_spi_miso,esp32_d19
+sd_card_spi_vcc,esp32_3v3
+sd_card_spi_gnd,esp32_gnd
+button_A_left,esp32_d15
+button_A_right,esp32_gnd
+R470_left,esp32_gnd
+R470_right,LED_cathode
+LED_anode,esp32_rx2
